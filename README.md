@@ -1,4 +1,4 @@
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/fluteds/fluteds/blob/main/github-metrics.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=fluteds&show_icons=true&count_private=true&theme=dark">
 
