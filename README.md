@@ -4,18 +4,19 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-#### Languages 📖
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-
-#### Learning :memo:
-
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/Python%20-000000.svg?&style=flat&logo=python)
-
-
-#### Gitmoji :rocket:
-![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-logo)
-
+<details>
+    <summary align="left"><samp>(ृʾ́꒳ʿ̀ ृ　)ु</samp></summary>
+    <hr>
+    hello! i’m <strong>fluteds</strong><code>(they/them)</code> 
+    🥟 and i enjoy learning new things. my strongest skills with programming lie within <code>web design</code> as i started out making tumblr blogs back in 2014 and by creating themes i learnt how to fluently use:
+    <code>html</code>,
+    <code>css</code>,
+    <code>tumblr.js</code> and
+    <code>javascript</code>.
+<br>i also love kpop, gaming and music! 🍃🎀
+    <hr>
+    <p align="center">
+      👋 also... <br>
+      <a href="https://twitter.com/intent/tweet?text=@fluted_%20hello!%20<3"><kbd>say hi on twitter</kbd></a> 
+      <br align="center">
+      💌
