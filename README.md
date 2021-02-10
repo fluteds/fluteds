@@ -1,7 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=fluteds&show_icons=true&count_private=true&theme=dark">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluteds&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### Languages 📖
 
