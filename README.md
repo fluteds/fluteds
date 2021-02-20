@@ -6,6 +6,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Markdown     5 hrs 11 mins   ██████████████▓░░░░░░░░░░   58.82 % 
+YAML         2 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   30.56 % 
+HTML         47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+```
 <!--END_SECTION:waka-->
 
 <details>
