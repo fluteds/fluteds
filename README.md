@@ -6,11 +6,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-```text
-Markdown     48 mins         ████████████████████▓░░░░   82.71 % 
-JavaScript   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-```
 <!--END_SECTION:waka-->
 
 <details>
