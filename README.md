@@ -64,13 +64,6 @@ Powered by Wakatime.
     </a>
 </details>
 </p>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <p>
 :page_with_curl: I'm currently learning:
 
