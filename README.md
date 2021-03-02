@@ -2,11 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   11 hrs 26 mins  ███████████████████░░░░░░   76.21 % 
-YAML       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-VB.NET     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-HTML       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Other      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown 11 hrs 26 mins ███████████████████░░░░░░ 76.21 %
+YAML 1 hr 10 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 07.81 %
+VB.NET 38 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 04.27 %
+HTML 25 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.85 %
+Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.18 %
 ```
 <!--END_SECTION:waka-->
 
@@ -35,12 +35,13 @@ Other      19 mins         ▓░░░░░░░░░░░░░░░░�
             <a href="https://twitter.com/intent/tweet?text=@fluted_%20hello!%20<3"><kbd>say hi on twitter</kbd></a>
             <br align="center">
             <p align="center">
-                <a href="https://fluted.xyz/pgp.txt"><kbd>pgp key</kbd></a>
+                <a href="https://raw.githubusercontent.com/fluteds/pgp/main/keys/current%20keys/keys/fluteds.asc"><kbd>pgp
+                        key</kbd></a>
                 <br align="center">
                 🔑💌
 </details>
 <details>
-    <summary>My Stats 🖩</summary>
+    <summary>My Stats 🧮</summary>
     <p>
         <h3> 🚧 My Github Stats 🚧
     </p>
@@ -55,6 +56,7 @@ Other      19 mins         ▓░░░░░░░░░░░░░░░░�
     <br>
     <br>
     <br>
+    <br>
     <p>
         <h3> 📚 Top Language Stats 📚
     </p>
@@ -62,5 +64,10 @@ Other      19 mins         ▓░░░░░░░░░░░░░░░░�
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluteds&hide_title=true&hide_total_stars=true&layout=compact&langs_count=10&card_width=265" />
     </a>
+    </p>
+    <br>
+    <br>
+    <p>
+        <!--START_SECTION:activity-->
     </p>
 </details>
