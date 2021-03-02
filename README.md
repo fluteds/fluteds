@@ -79,6 +79,7 @@ Powered by Wakatime.
 
 - Python 3
 - SQL Databases
+- Arch Linux 
 
 :star: Here are some projects that I'm working on:
 - [Awesome List of How to ask questions and for help with
