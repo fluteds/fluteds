@@ -41,7 +41,7 @@ Powered by Wakatime.
                 <br align="center">
                 🔑💌
 </details>
-<details>
+<details open>
     <summary>🧮 My Stats</summary>
     <p>
         <h3> 🚧 My Github Stats 🚧
