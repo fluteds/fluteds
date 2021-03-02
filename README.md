@@ -9,11 +9,25 @@ HTML 25 mins ▓░░░░░░░░░░░░░░░░░░░░░�
 Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.18 %
 ```
 <!--END_SECTION:waka-->
+Powered by Wakatime.
 
-#### Powered by Wakatime.
+:page_with_curl: I'm currently learning:
+- Python 3
+- SQL Databases
+
+:star: Here are some projects that I'm working on:
+- [Awesome List of How to ask questions and for help with Coding](https://github.com/fluteds/how-to-ask-questions-and-for-help)
+- [Animal Crossing New Horizons Tracker - An automated tracker that's set right in Github](https://github.com/fluteds/acnh)
+- [Monero - Secure, untracable cryptocurrency](https://github.com/fluteds/monero)
+
+⚙️ VS Code Extensions
+- [Open Sourced VS code Extensions that I use](my-vscode-extensions)
+
+:star: My Starred Repos
+- [My Awesome Starred Repos List](https://github.com/fluteds/starred/blob/master/README.md)
 
 <details>
-    <summary align="left">About 💭</summary>
+    <summary align="left">💭 About</summary>
     <br>
     <summary align="center">
         <img
@@ -41,7 +55,7 @@ Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░
                 🔑💌
 </details>
 <details>
-    <summary>My Stats 🧮</summary>
+    <summary>🧮 My Stats</summary>
     <p>
         <h3> 🚧 My Github Stats 🚧
     </p>
@@ -64,18 +78,5 @@ Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluteds&hide_title=true&hide_total_stars=true&layout=compact&langs_count=10&card_width=265" />
     </a>
-    </p>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <p>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
     </p>
 </details>
