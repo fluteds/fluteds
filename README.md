@@ -67,7 +67,15 @@ Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░
     </p>
     <br>
     <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <p>
-        <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
     </p>
 </details>
