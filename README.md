@@ -1,3 +1,5 @@
+
+
 ### Languages I've used this week:
 
 <!--START_SECTION:waka-->
@@ -10,7 +12,7 @@ Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 Powered by Wakatime.
-
+<hr>
 <details>
     <summary align="left">💭 About</summary>
     <br>
@@ -34,7 +36,7 @@ Powered by Wakatime.
             <a href="https://twitter.com/intent/tweet?text=@fluted_%20hello!%20<3"><kbd>say hi on twitter</kbd></a>
             <br align="center">
             <p align="center">
-                <a href="https://raw.githubusercontent.com/fluteds/pgp/main/keys/current%20keys/keys/fluteds.asc"><kbd>pgp
+                <a href="https://github.com/fluteds.gpg"><kbd>pgp
                         key</kbd></a>
                 <br align="center">
                 🔑💌
@@ -55,15 +57,23 @@ Powered by Wakatime.
     <br>
     <br>
     <br>
+    <br>
     <p>
         <h3> 📚 Top Language Stats 📚
     </p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluteds&hide_title=true&hide_total_stars=true&layout=compact&langs_count=10&card_width=265" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluteds&hide_title=true&hide_total_stars=true&layout=compact&langs_count=10" />
     </a>
 </details>
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
     <p>
 :page_with_curl: I'm currently learning:
 
@@ -83,3 +93,5 @@ Github](https://github.com/fluteds/acnh)
 :star: My Starred Repos
 - [My Awesome Starred Repos List](https://github.com/fluteds/starred/)
 </p>
+
+<hr>
