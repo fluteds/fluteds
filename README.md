@@ -69,5 +69,9 @@ Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░
     <br>
     <p>
         <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/fluteds/how-to-ask-questions-and-for-help/pull/1) in [fluteds/how-to-ask-questions-and-for-help](https://github.com/fluteds/how-to-ask-questions-and-for-help)
+2. 💪 Opened PR [#1](https://github.com/fluteds/how-to-ask-questions-and-for-help/pull/1) in [fluteds/how-to-ask-questions-and-for-help](https://github.com/fluteds/how-to-ask-questions-and-for-help)
+3. 💪 Opened PR [#1768](https://github.com/dogecoin/dogecoin/pull/1768) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
+<!--END_SECTION:activity-->
     </p>
 </details>
