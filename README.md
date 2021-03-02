@@ -11,21 +11,6 @@ Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 Powered by Wakatime.
 
-:page_with_curl: I'm currently learning:
-- Python 3
-- SQL Databases
-
-:star: Here are some projects that I'm working on:
-- [Awesome List of How to ask questions and for help with Coding](https://github.com/fluteds/how-to-ask-questions-and-for-help)
-- [Animal Crossing New Horizons Tracker - An automated tracker that's set right in Github](https://github.com/fluteds/acnh)
-- [Monero - Secure, untracable cryptocurrency](https://github.com/fluteds/monero)
-
-⚙️ VS Code Extensions
-- [Open Sourced VS code Extensions that I use](my-vscode-extensions)
-
-:star: My Starred Repos
-- [My Awesome Starred Repos List](https://github.com/fluteds/starred/blob/master/README.md)
-
 <details>
     <summary align="left">💭 About</summary>
     <br>
@@ -70,7 +55,6 @@ Powered by Wakatime.
     <br>
     <br>
     <br>
-    <br>
     <p>
         <h3> 📚 Top Language Stats 📚
     </p>
@@ -78,5 +62,31 @@ Powered by Wakatime.
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluteds&hide_title=true&hide_total_stars=true&layout=compact&langs_count=10&card_width=265" />
     </a>
-    </p>
 </details>
+</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>
+:page_with_curl: I'm currently learning:
+
+- Python 3
+- SQL Databases
+
+:star: Here are some projects that I'm working on:
+- [Awesome List of How to ask questions and for help with
+Coding](https://github.com/fluteds/how-to-ask-questions-and-for-help)
+- [Animal Crossing New Horizons Tracker - An automated tracker that's set right in
+Github](https://github.com/fluteds/acnh)
+- [Monero - Secure, untracable cryptocurrency](https://github.com/fluteds/monero)
+
+⚙️ VS Code Extensions
+- [Open Sourced Awesome VS code Extensions that I use](my-vscode-extensions.md)
+
+:star: My Starred Repos
+- [My Awesome Starred Repos List](https://github.com/fluteds/starred/)
+</p>
