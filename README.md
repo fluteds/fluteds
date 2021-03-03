@@ -82,6 +82,7 @@ Powered by Wakatime.
 - Arch Linux 
 
 :star: Here are some projects that I'm working on:
+- [S - A url shortener hosted entirely with Github pages using {user}.github.io](https://github.com/fluteds/s)
 - [Awesome List of How to ask questions and for help with
 Coding](https://github.com/fluteds/how-to-ask-questions-and-for-help)
 - [Animal Crossing New Horizons Tracker - An automated tracker that's set right in
