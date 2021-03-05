@@ -35,19 +35,17 @@ Powered by Wakatime.
         <p align="center">
             <a href="https://twitter.com/intent/tweet?text=@fluted_%20hello!%20<3"><kbd>say hi on twitter</kbd></a>
             <br align="center">
-            <p align="center">
-                <a href="https://github.com/fluteds.gpg"><kbd>pgp key</kbd></a>
-            <br align="center">
             </p>
             <p>
-            <kbd>my keyboard</kbd>
+             <a href="https://keyboardsimulator.xyz/?cc=eeeeee&cf=brushed&colorway=cw_d8d2c3.171718-aca693.171718-c87e74.171718-768e72.171718_ENT.3-ESC.2-SPC.2-GESC.2_cw-mhoic_9009%2520modified&legend=cherry&size=60iso&sub=hangul"><kbd>my keyboard</kbd></a>
 <p>
-    <a href="https://mechkeyboards.co.uk/ducky-one2-white-mini-kailh-box-brown-switch-rgb-backlit-1530-p.asp">
+        <a>
         <img align="center"
             src="https://geekhack.org/index.php?action=dlattach;topic=19113.0;attach=227999;image"/>
+            </a>
 </details>
 <details open>
-    <summary>🧮 My Stats</summary>
+<summary>🧮 My Stats</summary>
     <p>
         <h3> 🚧 My Github Stats 🚧
     </p>
@@ -72,6 +70,7 @@ Powered by Wakatime.
     </a>
 </details>
 </p>
+
 <br>
 <br>
 <br>
