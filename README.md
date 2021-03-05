@@ -11,7 +11,6 @@ JSON       13 mins         ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 Powered by Wakatime.
 <hr>
-
 <details><summary align="left">💭 About</summary>
     <br>
     <summary align="center">
@@ -23,8 +22,7 @@ Powered by Wakatime.
             src="https://64.media.tumblr.com/c926c9301e7c4da0457fd041ebedb1cb/189c6ddd22ffd726-ea/s75x75_c1/399da327c614f18efeb55be8af8fd2d55b43ebaa.gifv">
         <code>(they/them)</code>
         and i enjoy learning new things relating to development, i also love kpop, gaming and music! 🎀 my strongest
-        skills with programming lie within <code>web design</code> as i started out making tumblr blogs back in 2014 and
-        by creating themes i learnt how to fluently use:
+        skills with programming lie within <code>web design</code> as i started out making tumblr blogs back in 2014 and by creating themes i learnt how to fluently use:
         <code>html</code>,
         <code>css</code>,
         <code>tumblr.js</code> and
@@ -32,12 +30,10 @@ Powered by Wakatime.
         <hr>
         <p align="center">
             <a href="https://twitter.com/intent/tweet?text=@fluted_%20hello!%20<3"><kbd>say hi on twitter</kbd></a>
-            <br align="center">
-        </p>
-        <p>
+            •
             <a
-                href="https://keyboardsimulator.xyz/?cc=eeeeee&cf=brushed&colorway=cw_d8d2c3.171718-aca693.171718-c87e74.171718-768e72.171718_ENT.3-ESC.2-SPC.2-GESC.2_cw-mhoic_9009%2520modified&legend=cherry&size=60iso&sub=hangul"><kbd>my
-                    keyboard</kbd></a>
+                href="https://keyboardsimulator.xyz/?cc=eeeeee&cf=brushed&colorway=cw_d8d2c3.171718-aca693.171718-c87e74.171718-768e72.171718_ENT.3-ESC.2-SPC.2-GESC.2_cw-mhoic_9009%2520modified&legend=cherry&size=60iso&sub=hangul"><kbd>my keyboard</kbd>
+            </a>
             <p>
                 <a>
                     <img align="center"
