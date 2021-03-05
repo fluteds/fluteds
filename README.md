@@ -1,6 +1,13 @@
 ### Languages I've used this week
 
 <!--START_SECTION:waka-->
+```text
+Markdown   14 hrs 2 mins   ███████████████████░░░░░░   75.39 % 
+HTML       2 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Other      38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+YAML       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JSON       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+```
 <!--END_SECTION:waka-->
 Powered by Wakatime.
 <hr>
