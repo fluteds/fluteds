@@ -2,6 +2,8 @@
 
 ### Languages I've used this week:
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/48cf740cc494489eb234f8e8527c757c)](https://app.codacy.com/gh/fluteds/fluteds?utm_source=github.com&utm_medium=referral&utm_content=fluteds/fluteds&utm_campaign=Badge_Grade_Settings)
+
 <!--START_SECTION:waka-->
 ```text
 Markdown   11 hrs 26 mins  ███████████████████░░░░░░   76.21 % 
