@@ -4,8 +4,8 @@
 <!--END_SECTION:waka-->
 Powered by Wakatime.
 <hr>
-<details>
-    <summary align="left">💭 About</summary>
+
+<details><summary align="left">💭 About</summary>
     <br>
     <summary align="center">
         <img
