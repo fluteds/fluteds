@@ -52,6 +52,7 @@ Powered by Wakatime.
     <br>
     <br>
     <br>
+    <br>
     <p>
         <h3> 📚 Top Language Stats 📚
     </p>
@@ -61,7 +62,6 @@ Powered by Wakatime.
     </a>
 </details>
 </p>
-
 <br>
 <br>
 <br>
