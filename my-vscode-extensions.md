@@ -39,6 +39,7 @@
 ## Programming Languages
 
 -   [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify): Beautify code in place for VS Code
+-   [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): CSS Intellisense for HTML
 -   [Jekyll Run](https://marketplace.visualstudio.com/items?itemName=Dedsec727.jekyll-run): Build and Run your Jekyll static website
 -   [Jekyll Syntax Support](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-vscode-jekyll-syntax): Jekyll Syntax Highlighting for Visual Studio Code
 -   [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml): YAML Language Support by Red Hat, with built-in Kubernetes syntax support
@@ -46,10 +47,11 @@
 
 ## Snippets
 
+-   [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets): Full HTML tags including HTML5 Snippets
 -   [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml): YAML Language Support by Red Hat, with built-in Kubernetes syntax support
 
 
 ## Themes
 
 -   [Monokai Aora](https://marketplace.visualstudio.com/items?itemName=tuguldurio.monokai-aora): minimal looking custom monokai theme
--   [soft era](https://marketplace.visualstudio.com/items?itemName=soft-aesthetic.soft-era-theme): Light pastel syntax theme for soft, warm, cozy, cute coding & typing 🌱
+-   [soft era](https://marketplace.visualstudio.com/items?itemName=soft-aesthetic.soft-era-theme): �  Light pastel syntax theme for soft, warm, cozy, cute coding & typing 🌱

@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown 11 hrs 26 mins ███████████████████░░░░░░ 76.21 %
-YAML 1 hr 10 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 07.81 %
-VB.NET 38 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 04.27 %
-HTML 25 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.85 %
-Other 19 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.18 %
+Markdown   11 hrs 26 mins  ███████████████████░░░░░░   76.21 % 
+YAML       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+VB.NET     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+HTML       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Other      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 <!--END_SECTION:waka-->
 Powered by Wakatime.
@@ -87,6 +87,7 @@ Powered by Wakatime.
 - Arch Linux 
 
 :star: Here are some projects that I'm working on:
+- [S - A url shortener hosted entirely with Github pages using {user}.github.io](https://github.com/fluteds/s)
 - [Awesome List of How to ask questions and for help with
 Coding](https://github.com/fluteds/how-to-ask-questions-and-for-help)
 - [Animal Crossing New Horizons Tracker - An automated tracker that's set right in
