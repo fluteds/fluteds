@@ -36,10 +36,15 @@ Powered by Wakatime.
             <a href="https://twitter.com/intent/tweet?text=@fluted_%20hello!%20<3"><kbd>say hi on twitter</kbd></a>
             <br align="center">
             <p align="center">
-                <a href="https://github.com/fluteds.gpg"><kbd>pgp
-                        key</kbd></a>
-                <br align="center">
-                🔑💌
+                <a href="https://github.com/fluteds.gpg"><kbd>pgp key</kbd></a>
+            <br align="center">
+            </p>
+            <p>
+            <kbd>my keyboard</kbd>
+<p>
+    <a href="https://mechkeyboards.co.uk/ducky-one2-white-mini-kailh-box-brown-switch-rgb-backlit-1530-p.asp">
+        <img align="center"
+            src="https://geekhack.org/index.php?action=dlattach;topic=19113.0;attach=227999;image"/>
 </details>
 <details open>
     <summary>🧮 My Stats</summary>
@@ -93,6 +98,8 @@ Github](https://github.com/fluteds/acnh)
 
 :star: My Starred Repos
 - [My Awesome Starred Repos List](https://github.com/fluteds/starred/)
+
+
 </p>
 
 <hr>
