@@ -9,8 +9,6 @@ Powered by Wakatime.
     <summary align="left">💭 About</summary>
     <br>
     <summary align="center">
-        <img src="https://64.media.tumblr.com/db89ac1b81413063c660fdf85e3d9f65/50753d5a9688cf28-7e/s100x200/e98fb1079822881a785d61d179b11d6e5fe5b9d0.gifv">
-        <br>
         hello! i’m <strong>fluteds </strong>
         <img src="https://64.media.tumblr.com/c926c9301e7c4da0457fd041ebedb1cb/189c6ddd22ffd726-ea/s75x75_c1/399da327c614f18efeb55be8af8fd2d55b43ebaa.gifv">
         <code>(they/them)</code>
@@ -62,7 +60,6 @@ Powered by Wakatime.
     </a>
 </details>
 </p>
-<br>
 <br>
 <br>
 <br>
