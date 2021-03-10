@@ -42,6 +42,7 @@ Powered by Wakatime.
 </details>
 <details open>
     <summary>🧮 My Stats</summary>
+    <br>
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left"
