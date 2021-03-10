@@ -42,13 +42,13 @@ Powered by Wakatime.
 </details>
 <details open>
     <summary>🧮 My Stats</summary>
-    <p>
-        <h3> 🚧 My Github Stats 🚧
-    </p>
+<p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left"
-            src="https://github-readme-stats.vercel.app/api?username=fluteds&count_private=true&show_icons=true&hide_title=true&count_private=true&exclude_repo=commit&line_height=28" />
+            src="https://github-readme-stats.vercel.app/api?username=fluteds&include_all_commits&hide=stars&count_private=true&show_icons=true&exclude_repo=committ&line_height=28&include_all_commits&custom_title=My Github Stats 🚧"/>
     </a>
+    </p>
+    <br>
     <br>
     <br>
     <br>
@@ -58,16 +58,13 @@ Powered by Wakatime.
     <br>
     <br>
     <p>
-        <h3> 📚 Top Language Stats 📚
-    </p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluteds&hide_title=true&hide_total_stars=true&layout=compact&langs_count=10" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluteds&hide_total_stars=true&layout=compact&langs_count=10&custom_title=Top Language Stats 📚" />
     </a>
+    </p>
 </details>
 </p>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -88,7 +85,7 @@ Powered by Wakatime.
 Coding](https://github.com/fluteds/how-to-ask-questions-and-for-help)
 - [Animal Crossing New Horizons Tracker - An automated tracker that's set right in
 Github](https://github.com/fluteds/acnh)
-- [Monero - Secure, untracable cryptocurrency](https://github.com/fluteds/monero)
+- [Monero - Secure, untracable cryptocurrency](https://github.com/monero-project/monero)
 
 ⚙️ VS Code Extensions
 
