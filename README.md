@@ -33,9 +33,8 @@ Languages  :  HTML, CSS, Python, Javascript
 
 <!--START_SECTION:waka-->
 ```text
-Batchfile    24 mins         ████████████▒░░░░░░░░░░░░   49.44 % 
-HTML         21 mins         ██████████▓░░░░░░░░░░░░░░   42.68 % 
-AutoHotkey   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+HTML        21 mins         ███████████████▒░░░░░░░░░   61.62 % 
+Batchfile   11 mins         ████████▒░░░░░░░░░░░░░░░░   33.84 % 
+CSS         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 <!--END_SECTION:waka-->
