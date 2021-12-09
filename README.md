@@ -33,7 +33,6 @@ Languages  :  HTML, CSS, Python, Javascript
 
 <!--START_SECTION:waka-->
 ```text
-HTML   21 mins         ███████████████████████▒░   93.15 % 
-CSS    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+
 ```
 <!--END_SECTION:waka-->
