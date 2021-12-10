@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/fluteds.png" alt="logo.png" width="200"/> 
+<img align="left" src="https://placebear.com/g/200/200.jpg" alt="logo.png" width="200"/> 
 
 ```csharp
 fluteds@github
