@@ -33,6 +33,9 @@ Languages  :  HTML, CSS, Python, Javascript
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     10 mins         ██████████▓░░░░░░░░░░░░░░   42.03 % 
+YAML         10 mins         ██████████▒░░░░░░░░░░░░░░   41.99 % 
+CSS          2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+INI          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 <!--END_SECTION:waka-->
