@@ -33,10 +33,10 @@ Languages  :  HTML, CSS, Python, Javascript
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Markdown     54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Batchfile    37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-CSS          31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-JSON         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+JavaScript   1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Markdown     1 hr 3 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.06 % 
+Batchfile    37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+CSS          31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+JSON         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 <!--END_SECTION:waka-->
