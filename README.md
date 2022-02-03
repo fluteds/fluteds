@@ -33,10 +33,10 @@ Languages  :  HTML, CSS, Python, Javascript
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.35 % 
-YAML         3 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 % 
-HTML         2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Batchfile    2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-MDX          1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+TypeScript   9 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.48 % 
+YAML         3 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 % 
+MDX          3 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Batchfile    1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Markdown     1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 <!--END_SECTION:waka-->
