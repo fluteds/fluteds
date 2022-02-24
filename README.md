@@ -33,10 +33,10 @@ Languages  :  HTML, CSS, Python, Javascript
 
 <!--START_SECTION:waka-->
 ```text
-VBScript     5 hrs           █████████▒░░░░░░░░░░░░░░░   37.05 % 
-TypeScript   4 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   32.54 % 
-MDX          1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-INI          47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+VBScript     5 hrs           ███████████▓░░░░░░░░░░░░░   46.31 % 
+TypeScript   3 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.53 % 
+MDX          1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Git Config   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
