@@ -12,8 +12,6 @@ fluteds@github
  Terminal  :  Windows Terminal
       CPU  :  Intel
 Languages  :  HTML, CSS, Python, Javascript
-  Discord  :  209284513879162880
-  Website  :  dont-ban.me
 ```
 
 <p align="left">
