@@ -8,11 +8,9 @@
 fluteds@github
 ----------------
 
-       OS  :  Windows 10
-    Shell  :  Windows
+       OS  :  Windows 11
  Terminal  :  Windows Terminal
       CPU  :  Intel
-    Alias  :  cs/checksum
 Languages  :  HTML, CSS, Python, Javascript
   Discord  :  209284513879162880
   Website  :  dont-ban.me
