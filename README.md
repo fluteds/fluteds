@@ -30,12 +30,12 @@ Languages  :  HTML, CSS, Python, Javascript
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 53 mins   ██████████████░░░░░░░░░░░   56.30 %
-AutoHotkey   57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-JavaScript   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-CSS          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-MDX          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+TypeScript   3 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.89 %
+AutoHotkey   57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+JavaScript   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+CSS          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+JSON         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+MDX          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
