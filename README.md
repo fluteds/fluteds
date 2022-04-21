@@ -30,12 +30,12 @@ Languages  :  HTML, CSS, Python, Javascript
 <!--START_SECTION:waka-->
 
 ```text
-INI          6 hrs 14 mins   █████████████████▒░░░░░░░   69.75 %
-AutoHotkey   58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-TypeScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Markdown     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+INI          5 hrs 45 mins   █████████████████▒░░░░░░░   69.28 %
+AutoHotkey   58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+TypeScript   38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+YAML         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Markdown     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
