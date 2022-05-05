@@ -30,12 +30,9 @@ Languages  :  HTML, CSS, Python, Javascript
 <!--START_SECTION:waka-->
 
 ```text
-ReScript     1 hr 7 mins     ███████████████▒░░░░░░░░░   60.75 %
-Text         14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-AutoHotkey   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-Batchfile    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+AutoHotkey   22 mins         ████████████████████▒░░░░   80.79 %
+Batchfile    5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
