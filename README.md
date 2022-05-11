@@ -30,10 +30,10 @@ Languages  :  HTML, CSS, Python, Javascript
 <!--START_SECTION:waka-->
 
 ```text
-AutoHotkey   21 mins         ██████████████████▓░░░░░░   74.07 %
-Batchfile    5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-INI          2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+AutoHotkey   21 mins         ██████████████████████▒░░   89.71 %
+INI          2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
