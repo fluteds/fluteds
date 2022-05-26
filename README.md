@@ -21,9 +21,9 @@ Languages  :  HTML, CSS, Python, Javascript
 <!--START_SECTION:waka-->
 
 ```text
-Batchfile    32 mins         ████████████████▓░░░░░░░░   66.37 %
-INI          16 mins         ████████▒░░░░░░░░░░░░░░░░   32.91 %
-AutoHotkey   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Batchfile    32 mins         ████████████████████████▓   98.64 %
+AutoHotkey   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
