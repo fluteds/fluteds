@@ -21,12 +21,12 @@ Languages  :  HTML, CSS, Python, Javascript
 <!--START_SECTION:waka-->
 
 ```text
-PowerShell                 5 hrs 1 min     ███████████▓░░░░░░░░░░░░░   46.79 %
-Python                     2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-JavaScript                 1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-JSON                       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-CSV                        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Markdown                   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+PowerShell                 4 hrs 36 mins   ███████████░░░░░░░░░░░░░░   44.63 %
+Python                     2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
+JavaScript                 1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+JSON                       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+CSV                        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Markdown                   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
