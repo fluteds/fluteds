@@ -21,12 +21,11 @@ Languages  :  HTML, CSS, Python, Javascript
 <!--START_SECTION:waka-->
 
 ```text
-AutoHotkey   1 hr 10 mins    ███████████▓░░░░░░░░░░░░░   46.80 %
-Markdown     1 hr 2 mins     ██████████▒░░░░░░░░░░░░░░   41.52 %
-JSON         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-PowerShell   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Markdown     51 mins         █████████████████████▒░░░   85.80 %
+YAML         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+PowerShell   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+AutoHotkey   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
