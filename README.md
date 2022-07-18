@@ -21,8 +21,8 @@ Languages  :  HTML, CSS, Python, Javascript
 <!--START_SECTION:waka-->
 
 ```text
-PowerShell   2 mins          █████████████▓░░░░░░░░░░░   54.93 %
-AutoHotkey   1 min           ███████████▒░░░░░░░░░░░░░   45.07 %
+AutoHotkey   1 min           ███████████████▒░░░░░░░░░   61.80 %
+PowerShell   1 min           █████████▓░░░░░░░░░░░░░░░   38.20 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
