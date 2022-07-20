@@ -21,10 +21,10 @@ Languages  :  HTML, CSS, Python
 <!--START_SECTION:waka-->
 
 ```text
-Batchfile    1 min           ███████████░░░░░░░░░░░░░░   44.57 %
-AutoHotkey   1 min           ██████████▒░░░░░░░░░░░░░░   41.76 %
-CSV          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-PowerShell   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+AutoHotkey   14 mins         ████████████████████▓░░░░   82.84 %
+Batchfile    2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+PowerShell   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
