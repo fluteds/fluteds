@@ -11,7 +11,7 @@ fluteds@github
        OS  :  Windows 11
  Terminal  :  Windows Terminal
       CPU  :  Intel
-Languages  :  HTML, CSS, Python, Javascript
+Languages  :  HTML, CSS, Python
 ```
 
 ```zsh
