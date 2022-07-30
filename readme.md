@@ -21,12 +21,12 @@ Languages  :  HTML, CSS, Python
 <!--START_SECTION:waka-->
 
 ```text
-Java         49 mins         ███████████░░░░░░░░░░░░░░   44.02 %
-Groovy       29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
-AutoHotkey   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-PowerShell   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Batchfile    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Java         49 mins         █████████████▒░░░░░░░░░░░   53.54 %
+Groovy       29 mins         ████████░░░░░░░░░░░░░░░░░   31.68 %
+PowerShell   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Batchfile    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
