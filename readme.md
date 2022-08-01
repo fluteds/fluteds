@@ -21,11 +21,8 @@ Languages  :  HTML, CSS, Python
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       29 mins         █████████████▓░░░░░░░░░░░   54.49 %
-Java         12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-PowerShell   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Batchfile    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+PowerShell   5 mins          ████████████████████▓░░░░   82.05 %
+CSV          1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
 ```
 
 <!--END_SECTION:waka-->
