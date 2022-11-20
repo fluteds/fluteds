@@ -23,8 +23,9 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   0 secs          █████████████████████▒░░░   84.95 %
-Other        0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+JSON         35 mins         █████████████████████████   99.50 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
