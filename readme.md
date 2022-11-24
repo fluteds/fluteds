@@ -23,12 +23,12 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 16 mins   ██████████████████▓░░░░░░   75.09 %
-JSON         35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 %
-Markdown     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript   3 hrs 30 mins   ████████████████░░░░░░░░░   63.84 %
+Markdown     1 hr 14 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+JSON         39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
