@@ -23,9 +23,9 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```text
-JSON         4 hrs 5 mins    ███████████████████░░░░░░   75.75 %
-Python       1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JSON         4 hrs 16 mins   ███████████████████░░░░░░   76.50 %
+Python       1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
