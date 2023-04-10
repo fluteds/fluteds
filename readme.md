@@ -23,7 +23,12 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust         14 mins         █████████░░░░░░░░░░░░░░░░   36.03 %
+YAML         8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Go           5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+JSON         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Batchfile    3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+TOML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->
