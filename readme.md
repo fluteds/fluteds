@@ -23,9 +23,8 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-mcfunction   1 min           ██████████████████████▓░░   91.07 %
-Other        0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+mcfunction   1 min           ████████████████████████▓   98.34 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
