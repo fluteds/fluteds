@@ -17,7 +17,7 @@ Languages  :  Python, HTML, CSS
 ```
 
 ```zsh
-> coding-stats
+> coding-stats --weekly
 ```
 
 <!--START_SECTION:waka-->
