@@ -23,8 +23,11 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-HTML    28 mins         █████████████████▒░░░░░░░   69.16 %
-Other   12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+HTML              28 mins         ████████░░░░░░░░░░░░░░░░░   31.65 %
+JavaScript        28 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+Other             24 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+JSON              8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
