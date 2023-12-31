@@ -23,11 +23,11 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-AutoHotkey   5 hrs 19 mins   ████████████████▓░░░░░░░░   66.72 %
-Markdown     43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Batchfile    34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Bash         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-PowerShell   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+AutoHotkey   4 hrs 20 mins   ███████████████░░░░░░░░░░   59.66 %
+Markdown     1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
+Batchfile    34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Bash         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+PowerShell   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
