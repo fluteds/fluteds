@@ -23,7 +23,11 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python        4 hrs 59 mins   ███████████████████████▒░   93.75 %
+Markdown      17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
