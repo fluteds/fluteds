@@ -23,9 +23,9 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 17 mins    █████████████████████░░░░   83.74 %
-JSON    13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-YAML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+JSON    1 hr 45 mins    █████████████████▓░░░░░░░   70.05 %
+Other   43 mins         ███████▒░░░░░░░░░░░░░░░░░   29.11 %
+YAML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
