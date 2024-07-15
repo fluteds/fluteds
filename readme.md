@@ -23,11 +23,11 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         2 hrs 28 mins   ███████████░░░░░░░░░░░░░░   43.66 %
-JavaScript   1 hr 31 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
-CSS          1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
-Bash         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+HTML         2 hrs 24 mins   █████████▒░░░░░░░░░░░░░░░   36.91 %
+JavaScript   1 hr 29 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+CSS          1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+Python       34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+Other        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
 ```
 
 <!--END_SECTION:waka-->
