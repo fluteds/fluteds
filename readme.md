@@ -23,7 +23,9 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         27 mins         ███████████████████▓░░░░░   79.27 %
+JavaScript   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+Python       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
 ```
 
 <!--END_SECTION:waka-->
