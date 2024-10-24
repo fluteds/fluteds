@@ -12,7 +12,7 @@ fluteds@github
        OS  :  Windows 11 x64
  Terminal  :  Windows Terminal
     Shell  :  Starship
-   Scheme  :  Gruvbox
+   Scheme  :  Amora
 Languages  :  Python, HTML, CSS
 ```
 
