@@ -23,10 +23,7 @@ Languages  :  Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-INI          7 mins          ██████████▒░░░░░░░░░░░░░░   41.81 %
-CSS          4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
-HTML         3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-JavaScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
