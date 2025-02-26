@@ -9,10 +9,10 @@
 fluteds@github
 --------------
 
-       OS  :  Windows 11 x64
- Terminal  :  Windows Terminal
+       OS  :  MacOS
+ Terminal  :  zsh
     Shell  :  Starship
-   Scheme  :  Amora
+   Scheme  :  Rose Pine
 Languages  :  Python, HTML, CSS
 ```
 
