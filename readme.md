@@ -9,11 +9,12 @@
 fluteds@github
 --------------
 
-       OS  :  MacOS
- Terminal  :  zsh
-    Shell  :  Starship
-   Scheme  :  Rose Pine
-Languages  :  Python, HTML, CSS
+       OS  :  macOS
+       WM  :  yabai
+ Terminal  :  zsh (Starship prompt)  
+   Scheme  :  Rose Pine  
+Languages  :  JavaScript, TypeScript, Python, HTML, CSS  
+
 ```
 
 ```zsh
