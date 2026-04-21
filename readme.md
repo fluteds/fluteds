@@ -24,9 +24,10 @@ Languages  :  JavaScript, TypeScript, Python, HTML, CSS
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 25 mins         ████████████████████████░   96.24 %
-HTML       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-JSON       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Markdown   3 hrs 7 mins          ███████████████████████▒░   93.73 %
+Other      6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+HTML       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+JSON       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
