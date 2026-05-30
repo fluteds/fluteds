@@ -3,7 +3,7 @@
 ```
 
 <!--img align="left" src="https://github.com/fluteds.png" alt="logo.png" width="200"/>-->
-<img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExcGNhemdxcjVrbTBqenlnNXB6Yzh5eDl1b3g0czV3Mmg3ZjE2Ymd0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FN69OwUuuxNO6B9Wag8%2Fgiphy.gif&f=1&nofb=1&ipt=05b2e27ebee7a89cbc96786fe26d5216df982504369cc8ece55a50a2f5350ebb" alt="logo.png" width="200"/>
+<img align="left" src="https://i.pinimg.com/736x/15/e9/4d/15e94d610c0898f3ec3014ea63503c49.jpg" alt="logo.png" width="200"/>
 
 ```csharp
 fluteds@github
