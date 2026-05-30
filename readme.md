@@ -11,7 +11,9 @@ fluteds@github
 
        OS  :  macOS
        WM  :  yabai
- Terminal  :  zsh (Starship prompt)  
+   Editor  :  nvim
+ Terminal  :  ghostty
+    Shell  :  zsh
    Scheme  :  Rose Pine  
 Languages  :  JavaScript, TypeScript, Python, HTML, CSS  
 
