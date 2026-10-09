@@ -23,11 +23,11 @@ fluteds@github
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-HTML         2 hrs 34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.28 %
-Other        1 hr 37 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-Markdown     57 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-CSS          19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+HTML         3 hrs 25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
+JavaScript   3 hrs 8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.77 %
+Other        2 hrs 57 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+Markdown     58 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Python       58 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
 ```
 
 <!--END_SECTION:waka-->
