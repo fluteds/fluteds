@@ -23,8 +23,8 @@ fluteds@github
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 24 mins         ███████████████████████░░   91.90 %
-JavaScript   18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Other        1 hr 12 mins          ████████████████████░░░░░   80.17 %
+JavaScript   18 mins               █████░░░░░░░░░░░░░░░░░░░░   19.83 %
 ```
 
 <!--END_SECTION:waka-->
